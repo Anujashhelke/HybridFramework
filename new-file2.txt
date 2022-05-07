@@ -1,0 +1,2 @@
+#Purpose
+to compare the two files
